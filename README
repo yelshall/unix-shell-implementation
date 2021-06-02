@@ -1,0 +1,8 @@
+CS 252 - LAB 3 SHELL PROJECT
+----------------------------
+
+Features that were not implemented:
+- Source .shellrc
+- Process substitution
+
+All other features are fully implemented along with path completion
