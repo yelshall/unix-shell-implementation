@@ -57,8 +57,3 @@ git-commit:
 .PHONY: clean
 clean:
 	rm -f lex.yy.cc y.tab.cc y.tab.hh shell *.o
-	rm -f test-shell/out test-shell/out2
-	rm -f test-shell/sh-in test-shell/sh-out
-	rm -f test-shell/shell-in test-shell/shell-out
-	rm -f test-shell/err1 test-shell/file-list
-
