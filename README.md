@@ -15,4 +15,4 @@ This is a fully function UNIX shell implementation written in C and C++. It pars
 * Command History
 
 # How to run
-* You can run it by cloning the repository and running make. However, I am still in the process of editing this repository, so it is preferrable to wait before downloading anything right now.
+* You can run it by cloning the repository and running make. However, I am still in the process of editing this repository, so it is preferrable to wait before downloading anything right now. In order to exit out of the shell, you just type exit.

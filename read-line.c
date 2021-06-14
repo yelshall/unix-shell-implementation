@@ -1,10 +1,3 @@
-/*
- * CS252: Systems Programming
- * Purdue University
- * Example that shows how to read one line with simple editing
- * using raw terminal.
- */
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
